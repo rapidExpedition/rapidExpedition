@@ -1,0 +1,9 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/rapidExpedition/rapidExpedition.wiki.git
+[submodule "Xenanthropy"]
+	path = Xenanthropy
+	url = https://github.com/rapidExpedition/Xenanthropy.git
+[submodule "theExpeditionarium"]
+	path = theExpeditionarium
+	url = https://github.com/rapidExpedition/theExpeditionarium.git
