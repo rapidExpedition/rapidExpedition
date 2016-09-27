@@ -4,3 +4,6 @@
 [submodule "Xenanthropy"]
 	path = Xenanthropy
 	url = https://github.com/rapidExpedition/Xenanthropy.git
+[submodule "theExpeditionarium"]
+	path = theExpeditionarium
+	url = https://github.com/rapidExpedition/theExpeditionarium.git
