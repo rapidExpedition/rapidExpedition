@@ -1,4 +1,10 @@
-This work represents an attempt to establish and develop a set of philosophical principles collaboratively by employing appropriate technologies for ease of communication and distribution.  Here, we will specifically survey the novel concept of [Expeditionary Philosophy]() and more specifically, the notion of [Rapid Expedition](), as a modern cultural paradigm to be honed.  The goal is to pioneer a comprehensive and relevant philosophy to benefit the modern age in practice and prescription.  As this work will remain open-source, its development will be public, and its contents available for copy and alteration.
+This work represents an attempt to establish and develop a set of philosophical principles collaboratively by employing appropriate technologies for ease of communication, iteration, and distribution.
+
+Here, we will specifically survey the novel concept of [Expeditionary Philosophy]() and, more specifically, the notion of [Rapid Expedition](), as attributive of a greater pre-existing cultural paradigm.  Furthermore will we seek to hone the the concept with prejudice toward its value being universal and self-evident.
+
+The goal of this is to establish a positive feedback loop toward the pioneering of a comprehensive and relevant philosophy and for the explicit benefit of the modern age--accomplishing this as much in practice as well as prescription.
+
+As this work will remain open-source, its development will be public, and its contents available for copy and alteration.
 
 ## How to Contribute
 
