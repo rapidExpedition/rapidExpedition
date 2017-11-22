@@ -24,6 +24,18 @@
     {
       "name": "TODO",
       "hidden": false
+    },
+    {
+      "name": "DONE",
+      "hidden": false
+    },
+    {
+      "name": "NOTE",
+      "hidden": false
+    },
+    {
+      "name": "IDEA",
+      "hidden": false
     }
   ],
   "marked": {
